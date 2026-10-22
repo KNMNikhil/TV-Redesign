@@ -1,0 +1,13 @@
+# generated for, or belonging to, one specific TV or person
+.tv-key.json
+app/apps.js
+app/icons/
+app/wallpapers/
+build/
+*.ipk
+
+# local tooling
+venv/
+tools/node_modules/
+__pycache__/
+.DS_Store

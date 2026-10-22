@@ -1,0 +1,8 @@
+{
+  "name": "tv-redesign-tools",
+  "private": true,
+  "description": "Pinned LG webOS command-line tools used by install.sh",
+  "dependencies": {
+    "@webos-tools/cli": "3.2.6"
+  }
+}
